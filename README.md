@@ -46,11 +46,11 @@ https://drive.google.com/file/d/1ouYy3oj7Epxjp_C-vm-D-9dm98-vTTLv/view?usp=share
 
 ## Examples 
 
-http://127.0.0.1:5500/examples/triangle.svg
+<img src="examples/svg-logo-circle.png" widht=100 height=100 alt="Screenshot of the circle logo">
 
-http://127.0.0.1:5500/examples/square.svg
+<img src="examples/svg-logo-square.png" widht=100 height=100 alt="Screenshot of the square logo">
 
-http://127.0.0.1:5500/examples/circle.svg
+<img src="examples/svg-logo-triangle.png" widht=100 height=100 alt="Screenshot of the triangle logo">
 
 
 
