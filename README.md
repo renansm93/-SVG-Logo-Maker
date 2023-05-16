@@ -21,6 +21,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Examples](#examples)
   * [License](#license)
   * [Contributing](#contributing)
   * [Testing](#testing)
@@ -30,16 +31,26 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Installation
 
-To install this app you will need to clone the repository from github, install node.js and then run npm i inquirer@8.2.4 in the terminal. Then type node index.js so the questions will be promped.
+To install this app you will need to clone the repository from github, install node.js and then run npm i inquirer@8.2.4 in the terminal. Then type node index.js so the questions will be promped adn then the logo generated afterwards.
 
 
 
 ## Usage
 
-To run the program, run the code below in Node according to the terminal prompts:
+To run the program, run the code in Node according to the terminal prompts. Watch the video for more details.
 
-<!-- <img src="./assets/README.GIF" widht=400 height=400> -->
-https://drive.google.com/file/d/1mswQzBpkhkpySwTuFXelhGgxlttTK5Yp/view?usp=share_link
+
+https://drive.google.com/file/d/1ouYy3oj7Epxjp_C-vm-D-9dm98-vTTLv/view?usp=share_link
+
+
+
+## Examples 
+
+http://127.0.0.1:5500/examples/triangle.svg
+
+http://127.0.0.1:5500/examples/square.svg
+
+http://127.0.0.1:5500/examples/circle.svg
 
 
 
