@@ -31,8 +31,9 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Installation
 
-To install this app you will need to clone the repository from github, install node.js and then run npm i inquirer@8.2.4 in the terminal. Then type node index.js so the questions will be promped adn then the logo generated afterwards.
+To install this app you will need to clone the repository from github (link bellow), install node.js and then run npm i inquirer@8.2.4 in the terminal. Then type node index.js so the questions will be promped adn then the logo generated afterwards.
 
+https://github.com/renansm93/SVG-Logo-Maker
 
 
 ## Usage
